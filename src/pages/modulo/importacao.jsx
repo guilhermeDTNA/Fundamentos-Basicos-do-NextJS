@@ -4,7 +4,7 @@ import FuncaoDefault, {
     Comp4
  } from '/src/components/modulo/funcionais'
 
-export default function teste(){
+export default function Teste(){
     return(
         <div>
             <h2>Importando módulos com o sistema ECMAScript</h2>

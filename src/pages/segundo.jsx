@@ -1,7 +1,7 @@
 import { Component } from "react"
 
 //Criando componente via class
-export default class segundo extends Component{
+export default class Segundo extends Component{
     state = {
         clientX: 0,
         clientY: 0
